@@ -1,0 +1,28 @@
+{
+    "window.zoomLevel":0,
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.startupEditor": "none",
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.env.windows": {},
+    "git.enableSmartCommit": true,
+    "workbench.settings.applyToAllProfiles": [
+      "editor.fontFamily"
+    ],
+    "editor.codeActionsOnSave": {
+    
+    }
+  }
